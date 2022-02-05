@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C96F0BB2-E662-485D-931D-013E72BF0451"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BF92959-1B6F-4577-A763-A2FBF09008C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Two/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7BF92959-1B6F-4577-A763-A2FBF09008C6 - bed97a15e2e0e32e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Two.ViewController.textView.getter : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "Two"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/labellanosa/Desktop/Whisper%20of%20the%20Heart/Two/Two/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "7BF92959-1B6F-4577-A763-A2FBF09008C6 - caf98d518a3cead2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Two.ViewController.textView.setter : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "Two"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/labellanosa/Desktop/Whisper%20of%20the%20Heart/Two/Two/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "7BF92959-1B6F-4577-A763-A2FBF09008C6 - ff0feb86064b7286"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Two.ViewController.textView.modify : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "Two"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/labellanosa/Desktop/Whisper%20of%20the%20Heart/Two/Two/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "7BF92959-1B6F-4577-A763-A2FBF09008C6 - e5f2a7275c03010e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Two.ViewController.textView.modify : Swift.Optional&lt;__C.UITextView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Two"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/labellanosa/Desktop/Whisper%20of%20the%20Heart/Two/Two/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "7BF92959-1B6F-4577-A763-A2FBF09008C6 - f1f82ba5deb64ec2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Two.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Two.ViewController"
+                  moduleName = "Two"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/labellanosa/Desktop/Whisper%20of%20the%20Heart/Two/Two/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "7BF92959-1B6F-4577-A763-A2FBF09008C6 - 365b13d7bc5e3379"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Two.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Two.ViewController&gt;"
+                  moduleName = "Two"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/labellanosa/Desktop/Whisper%20of%20the%20Heart/Two/Two/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
